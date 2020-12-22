@@ -6,6 +6,7 @@ import (
 	"time"
 )
 
+// format of responding
 type indexResult struct {
 	Time string `json:"time"`
 }
@@ -18,9 +19,11 @@ func indexHandler(w http.ResponseWriter, r *http.Request) {
 		http.Error(w, err.Error(), http.StatusInternalServerError)
 		return
 	}
-
+	//setting header
 	w.Header().Set("Content-Type", "application/json")
+	//writing header
 	w.WriteHeader(http.StatusAccepted)
+	// writing response
 	w.Write(jsonRes)
 }
 
