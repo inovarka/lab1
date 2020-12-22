@@ -1,1 +1,1 @@
-Copyright (c) 2020 Dmytrenko Oleksandr, Pasha Timofeenko
+Copyright (c) Dmytrenko Oleksandr, Pasha Timofeenko
