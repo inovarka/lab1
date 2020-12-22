@@ -1,3 +1,2 @@
 Team Milf
-
-Contributors:  Дмитренко Олександр !
+Contributors: Тимофеенко Паша, Дмитренко Олександр !
