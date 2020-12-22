@@ -1,2 +1,2 @@
-# Team Milf lab1
+# Team Milf 
 ### Contributors: Pavlo Tymofeienko, Dmytrenko Oleksandr 
