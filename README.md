@@ -1,3 +1,3 @@
-#Team Milf lab1
+# Team Milf lab1
 ===============
-###Contributors: Pavlo Tymofeienko, Dmytrenko Oleksandr 
+### Contributors: Pavlo Tymofeienko, Dmytrenko Oleksandr 
